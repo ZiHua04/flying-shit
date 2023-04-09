@@ -1,0 +1,9 @@
+﻿E:\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(test.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  main.cpp
+F:\workspace\c++\flying shit\main.cpp(21,35): warning C4018: “>”: 有符号/无符号不匹配
+F:\workspace\c++\flying shit\main.cpp(169,1): warning C4305: “+=”: 从“double”到“float”截断
+F:\workspace\c++\flying shit\main.cpp(170,9): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+F:\workspace\c++\flying shit\main.cpp(171,9): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+F:\workspace\c++\flying shit\main.cpp(220,33): warning C4018: “>”: 有符号/无符号不匹配
+F:\workspace\c++\flying shit\main.cpp(264,27): warning C4305: “+=”: 从“double”到“float”截断
+  test.vcxproj -> F:\workspace\c++\flying shit\x64\Debug\flying shit.exe

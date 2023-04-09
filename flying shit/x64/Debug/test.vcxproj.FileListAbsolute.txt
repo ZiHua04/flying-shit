@@ -1,0 +1,2 @@
+F:\workspace\c++\test\x64\Debug\test.exe
+F:\workspace\c++\flying shit\x64\Debug\flying shit.exe

@@ -1,0 +1,2 @@
+F:\workspace\c++\jumping game\x64\Release\flying shit.exe
+F:\workspace\c++\flying shit\x64\Release\flying shit.exe

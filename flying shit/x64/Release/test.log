@@ -1,0 +1,2 @@
+﻿E:\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: 中间目录(x64\Release\)包含从另一个项目(jumping game.vcxproj, test.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  test.vcxproj -> F:\workspace\c++\flying shit\x64\Release\flying shit.exe
